@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Talpa Labs Logo" width="200"/>
+  <img src="talpalabs-logo.png" alt="Talpa Labs Logo" width="200"/>
   <h1>Talpa Labs</h1>
   <p><em>Digging deeper into system internals</em></p>
   
