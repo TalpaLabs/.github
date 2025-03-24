@@ -7,9 +7,6 @@
     <a href="https://github.com/TalpaLabs">
       <img src="https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github" alt="GitHub Organization"/>
     </a>
-    <a href="https://crates.io/teams/talpalabs">
-      <img src="https://img.shields.io/badge/crates.io-Team-orange?style=for-the-badge&logo=rust" alt="crates.io"/>
-    </a>
   </p>
 </div>
 
